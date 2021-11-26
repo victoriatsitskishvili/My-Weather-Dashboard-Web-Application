@@ -105,7 +105,10 @@ Setting up the font and size
 - Adding another function if location is not added
 - Returning the function if there is nothing in the search box 
 - Returning the function if the element is not showing under search history 
-- 
+
+  ![Screenshot of the app] (https://github.com/victoriatsitskishvili/My-Weather-Dashboard-Web-Application/blob/efc808a85c41aa2f8f8c6008184e5462bdcfb342/assets/images/Screen%20Shot%202021-11-26%20at%203.50.11%20PM.png)
+
+[Link to GitHub] (https://github.com/victoriatsitskishvili/My-Weather-Dashboard-Web-Application)
 
 
 
